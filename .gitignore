@@ -1,0 +1,18 @@
+# Dependencies
+**/node_modules
+**/.env
+**/.env.local
+
+# Contract specific
+contract/coverage/
+contract/coverage.json
+contract/typechain/
+contract/cache/
+contract/artifacts/
+
+# Frontend specific
+frontend/build/
+frontend/dist/
+
+# OS specific
+.DS_Store
